@@ -1,0 +1,1 @@
+﻿{"name":"rls-check","version":"1.0.0","description":"Instant Supabase RLS security scan using NVIDIA AI","bin":{"rls-check":"./cli.js"},"dependencies":{},"license":"MIT"}
